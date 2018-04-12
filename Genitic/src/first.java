@@ -6,7 +6,6 @@ public class first {
 	int k; 
 
 
-
-
-
+	
+	
 }
